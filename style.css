@@ -74,6 +74,10 @@ a:hover {
     font-size: 2em;
 }
 
+.banner p{
+    text-align: center;
+}
+
 .content {
     padding: 0 12px;
     max-width: 1200px;
